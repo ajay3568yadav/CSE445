@@ -1,0 +1,2 @@
+susrick@gmail.com,11/15/2024 5:47:19 PM,light,False
+vasav@gmail.com,11/15/2024 5:57:26 PM,light,True
