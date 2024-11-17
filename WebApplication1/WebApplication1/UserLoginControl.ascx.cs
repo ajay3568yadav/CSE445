@@ -63,7 +63,6 @@ namespace WebApplication1
             if (CaptchaInput.Text == Session["CaptchaText"].ToString())
             {
                 CaptchaMessage.Text = "CAPTCHA verified!";
-                _isAuthenticated = true;
             }
             else
             {
@@ -74,12 +73,8 @@ namespace WebApplication1
 
         public bool GetAuthenticated()
         {
-            return _isAuthenticated;
+            return CaptchaInput.Text == Session["CaptchaText"].ToString();
         }
 
-        public void ResetAuthenticated()
-        {
-            _isAuthenticated = false;
-        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using System.Web;
 using WebApplication1.Business.Services;
 using WebApplication1.Data;
@@ -45,6 +46,7 @@ namespace WebApplication1
                 {
                     lblMessage.Text = "Please complete the captcha!";
                     lblMessage.ForeColor = System.Drawing.Color.Red;
+                    pnlMessage.Visible = true;
                 }
 
                 else if (_authService.AuthenticateUser(email, password, rememberMe))
@@ -65,12 +67,14 @@ namespace WebApplication1
                 {
                     lblMessage.Text = "Invalid email or password!";
                     lblMessage.ForeColor = System.Drawing.Color.Red;
+                    pnlMessage.Visible = true;
                 }
             }
             catch (Exception ex)
             {
                 lblMessage.Text = "An error occurred. Please try again later.";
                 System.Diagnostics.Debug.WriteLine(ex.Message);
+                pnlMessage.Visible = true;
             }
         }
 

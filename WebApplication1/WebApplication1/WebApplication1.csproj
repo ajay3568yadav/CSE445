@@ -68,6 +68,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Business\Services\Service1.svc" />
     <Content Include="Default.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Signup.aspx" />
@@ -77,6 +78,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\Services\AuthenticationService.cs" />
+    <Compile Include="Business\Services\Service1.svc.cs">
+      <DependentUpon>Service1.svc</DependentUpon>
+    </Compile>
     <Compile Include="Business\Services\UserProfileService.cs" />
     <Compile Include="Data\FileUserRepository.cs" />
     <Compile Include="Data\Interfaces\IUserProfileRepository.cs" />
