@@ -1,7 +1,10 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="WebApplication1.Login" %>
 <%@ Import Namespace="WebApplication1.Data.StateManagement" %>
+<%@ Register Src="~/UserLoginControl.ascx" TagName="CaptchaControl" TagPrefix="uc" %>
 <!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head runat="server">
     <title>Login</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -166,6 +169,8 @@
             }
         }
     </style>
+
+
 </head>
 <body class='<%=new CookieStateManager().GetUserPreference("theme") == "dark" ? "bg-dark" : "bg-light" %>'>
     <form id="form1" runat="server">
@@ -196,6 +201,9 @@
             </div>
             <div class="remember-me">
                 <asp:CheckBox ID="chkRememberMe" runat="server" Text="Keep me signed in" />
+            </div>
+            <div>
+                <uc:CaptchaControl ID="CaptchaControl1" runat="server" />
             </div>
             <div class="form-group">
                 <asp:Button ID="btnLogin" runat="server" Text="Sign In" CssClass="btn" OnClick="btnLogin_Click" />

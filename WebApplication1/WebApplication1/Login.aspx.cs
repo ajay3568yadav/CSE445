@@ -7,6 +7,7 @@ using WebApplication1.Models;
 
 namespace WebApplication1
 {
+
     public partial class Login : System.Web.UI.Page
     {
         private readonly AuthenticationService _authService;
@@ -40,7 +41,13 @@ namespace WebApplication1
 
             try
             {
-                if (_authService.AuthenticateUser(email, password, rememberMe))
+                if (!CaptchaControl1.GetAuthenticated())
+                {
+                    lblMessage.Text = "Please complete the captcha!";
+                    lblMessage.ForeColor = System.Drawing.Color.Red;
+                }
+
+                else if (_authService.AuthenticateUser(email, password, rememberMe))
                 {
                     // Create and save user profile
                     var profile = new UserProfile

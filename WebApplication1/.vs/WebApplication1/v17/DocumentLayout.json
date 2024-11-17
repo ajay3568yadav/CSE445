@@ -1,10 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\data\\statemanagement\\cookiestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\statemanagement\\cookiestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\userlogincontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userlogincontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\userlogincontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userlogincontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\business\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\business\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\data\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\data\\fileuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\fileuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\data\\statemanagement\\istatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\statemanagement\\istatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B21BE1B-AC06-4513-83F6-5FC68C1DCF3D}|..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\EncryptionLib.csproj|c:\\users\\nanom\\downloads\\new_5\\webforms1\\encryptionlib\\aes256cipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B21BE1B-AC06-4513-83F6-5FC68C1DCF3D}|..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\EncryptionLib.csproj|c:\\users\\nanom\\downloads\\new_5\\webforms1\\encryptionlib\\encryptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\nanom\\source\\repos\\cse445\\webapplication1\\webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +76,231 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aes256Cipher.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\Downloads\\New_5\\webForms1\\EncryptionLib\\Aes256Cipher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\Aes256Cipher.cs",
+              "ToolTip": "C:\\Users\\nanom\\Downloads\\New_5\\webForms1\\EncryptionLib\\Aes256Cipher.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\Aes256Cipher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:34:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\FileUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\FileUserRepository.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\FileUserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\FileUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:32:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\StateManagement\\IStateManager.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\StateManagement\\IStateManager.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\StateManagement\\IStateManager.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\StateManagement\\IStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:31:40.992Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Welcome.aspx",
-              "DocumentMoniker": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\WebApplication1\\Welcome.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Welcome.aspx",
-              "ToolTip": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\WebApplication1\\Welcome.aspx",
-              "RelativeToolTip": "WebApplication1\\Welcome.aspx",
+              "Title": "CookieStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\StateManagement\\CookieStateManager.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\StateManagement\\CookieStateManager.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\StateManagement\\CookieStateManager.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\StateManagement\\CookieStateManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:31:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\UserLoginControl.ascx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserLoginControl.ascx.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\UserLoginControl.ascx.cs",
+              "RelativeToolTip": "WebApplication1\\UserLoginControl.ascx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:09:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:02:05.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginControl.ascx",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\UserLoginControl.ascx",
+              "RelativeDocumentMoniker": "WebApplication1\\UserLoginControl.ascx",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\UserLoginControl.ascx",
+              "RelativeToolTip": "WebApplication1\\UserLoginControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-17T21:08:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T21:07:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Data\\UserProfileRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\UserProfileRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:35:06.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T21:02:02.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx",
+              "RelativeToolTip": "WebApplication1\\Welcome.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-15T23:40:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Signup.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Signup.aspx",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Signup.aspx",
+              "RelativeToolTip": "WebApplication1\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T06:59:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:01:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Encryptions.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\Downloads\\New_5\\webForms1\\EncryptionLib\\Encryptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\Encryptions.cs",
+              "ToolTip": "C:\\Users\\nanom\\Downloads\\New_5\\webForms1\\EncryptionLib\\Encryptions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\New_5\\webForms1\\EncryptionLib\\Encryptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:34:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:02:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Models\\UserProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:51:29.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nanom\\source\\repos\\CSE445\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:51:27.43Z",
               "EditorCaption": ""
             }
           ]

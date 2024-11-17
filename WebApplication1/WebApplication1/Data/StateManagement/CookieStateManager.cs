@@ -93,6 +93,8 @@ namespace WebApplication1.Data.StateManagement
             HttpCookie themeCookie = new HttpCookie(THEME_COOKIE);
             themeCookie.Expires = DateTime.Now.AddDays(-1);
             HttpContext.Current.Response.Cookies.Add(themeCookie);
+
+
         }
     }
 }
