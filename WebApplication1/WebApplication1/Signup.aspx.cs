@@ -9,7 +9,7 @@ namespace WebApplication1
 {
     public partial class Signup : System.Web.UI.Page
     {
-        private readonly AuthenticationService _authService;
+        private readonly CustomAuthenticationService _authService;
         private readonly UserProfileService _profileService;
         private readonly FileUserRepository _userRepository;
 
@@ -19,7 +19,7 @@ namespace WebApplication1
             _userRepository = new FileUserRepository();
             var profileRepository = new UserProfileRepository();
 
-            _authService = new AuthenticationService(_userRepository, stateManager);
+            _authService = new CustomAuthenticationService(_userRepository, stateManager);
             _profileService = new UserProfileService(profileRepository, stateManager);
         }
 
@@ -75,7 +75,7 @@ namespace WebApplication1
 
         private void RedirectToWelcome(string email)
         {
-            Response.Redirect($"Welcome.aspx?email={HttpUtility.UrlEncode(email)}");
+            Response.Redirect($"WebForm1.aspx?email={HttpUtility.UrlEncode(email)}");
         }
 
         protected void lnkLogin_Click(object sender, EventArgs e)

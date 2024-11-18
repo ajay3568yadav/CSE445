@@ -1,2 +1,4 @@
 susrick@gmail.com,11/15/2024 5:47:19 PM,light,False
 vasav@gmail.com,11/15/2024 5:57:26 PM,light,True
+ayadav55@gmail.com,11/17/2024 8:11:26 PM,light,False
+ajay@gmail.com,11/17/2024 11:19:43 PM,light,True

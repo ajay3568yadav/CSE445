@@ -1,10 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|c:\\users\\ayadav55\\documents\\cse445\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\tryitpageemployeeservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\tryitpageemployeeservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\tryitpageemployeeservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\tryitpageemployeeservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\business\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\business\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233ABBC9-FC55-4BE1-8A0D-6664FE252286}|..\\..\\..\\Downloads\\Assignement3\\Assignement3\\RestfulWebApp\\EmployeeService\\EmployeeService.csproj|c:\\users\\ayadav55\\downloads\\assignement3\\assignement3\\restfulwebapp\\employeeservice\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\webapplication1\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03297391-A66B-40AA-A7DA-81D75948102A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +57,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication1\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:13:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TryItPageEmployeeService.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\TryItPageEmployeeService.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TryItPageEmployeeService.aspx.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\TryItPageEmployeeService.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\TryItPageEmployeeService.aspx.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:09:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TryItPageEmployeeService.aspx",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\TryItPageEmployeeService.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\TryItPageEmployeeService.aspx",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\TryItPageEmployeeService.aspx",
+              "RelativeToolTip": "WebApplication1\\TryItPageEmployeeService.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T06:07:50.046Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T06:03:16.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Downloads\\Assignement3\\Assignement3\\RestfulWebApp\\EmployeeService\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignement3\\Assignement3\\RestfulWebApp\\EmployeeService\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Downloads\\Assignement3\\Assignement3\\RestfulWebApp\\EmployeeService\\Service1.svc.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignement3\\Assignement3\\RestfulWebApp\\EmployeeService\\Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:10:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Welcome.aspx.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Welcome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:53:44.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Signup.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Signup.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:52:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:51:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "WebApplication1\\Business\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:46:48.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:20:50.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication1\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T03:19:59.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Welcome.aspx",
-              "DocumentMoniker": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\WebApplication1\\Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Welcome.aspx",
-              "ToolTip": "C:\\Users\\ayadav55\\source\\repos\\WebApplication1\\WebApplication1\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\ayadav55\\Documents\\CSE445\\WebApplication1\\WebApplication1\\Welcome.aspx",
               "RelativeToolTip": "WebApplication1\\Welcome.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-15T23:40:07.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T23:40:07.958Z"
             }
           ]
         }

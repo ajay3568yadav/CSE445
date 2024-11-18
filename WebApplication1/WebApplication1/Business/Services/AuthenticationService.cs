@@ -7,12 +7,12 @@ using WebApplication1.Data.StateManagement;
 
 namespace WebApplication1.Business.Services
 {
-    public class AuthenticationService
+    public class CustomAuthenticationService  // Changed from AuthenticationService
     {
         private readonly IUserRepository _userRepository;
         private readonly IStateManager _stateManager;
 
-        public AuthenticationService(IUserRepository userRepository, IStateManager stateManager)
+        public CustomAuthenticationService(IUserRepository userRepository, IStateManager stateManager)
         {
             _userRepository = userRepository;
             _stateManager = stateManager;
